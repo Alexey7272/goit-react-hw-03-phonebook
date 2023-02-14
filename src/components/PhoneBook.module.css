@@ -1,0 +1,77 @@
+.AddContact {
+    width: 500px;
+    height: 190px;
+
+    margin: 40px;
+    padding: 20px;
+    border: 1px solid black;
+}
+
+.AddContact__label {
+    font-size: larger;
+    font-weight: 500;
+}
+
+.AddContact__data {
+    display: block;
+    resize: none;
+
+    width: 200px;
+    height: 20px;
+
+    margin-top: 5px;
+    margin-bottom: 30px;
+}
+ 
+.AddContact__button {
+    background: white;
+    border: 1px solid slategray;
+    border-radius: 4px;
+    cursor: pointer;
+
+    width: 130px;
+    height: 25px;
+}
+
+.Contacts__title {
+    padding-left: 40px;
+}    
+
+.Contacts__list {
+    font-size: large;
+
+    margin-left: 30px;
+}
+
+.Contacts__item {
+    font-weight: 500;
+
+    padding-bottom: 10px;
+}
+
+.Contacts__button {
+    border: solid 1px grey;
+    border-radius: 4px;
+
+    width: 60px;
+    height: 20px;
+
+    background: white;
+
+    margin-left: 10px;
+}
+
+.Filter__title {
+    font-size: large;
+
+    margin: 0;
+    margin-bottom: 10px;
+    padding-left: 40px;
+}
+
+.Filter__label {
+    font-size: larger;
+    font-weight: 500;
+
+    margin-left: 40px;
+}
